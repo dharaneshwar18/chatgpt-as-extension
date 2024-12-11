@@ -26,7 +26,7 @@ A powerful and interactive Chrome Extension that integrates OpenAI's GPT-3.5 to 
 
 ### Clone the Repository:
 ```bash
-git clone https://github.com/yourusername/chatgpt-chrome-extension.git
+git clone https://github.com/dharaneshwar18/chatgpt-chrome-extension.git
 cd chatgpt-chrome-extension
 ```
 
@@ -77,17 +77,6 @@ Enjoy smooth animations and instant responses powered by GPT-3.5.
 
 Ensure you keep your API key secure by not exposing it in public repositories. Use environment variables to store sensitive data.
 
----
-
-## 📄 License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
----
-
-## 🤝 Contribution
-
-Contributions, issues, and feature requests are welcome! Feel free to check the [issues](https://github.com/yourusername/chatgpt-chrome-extension/issues) page.
 
 ---
 
@@ -96,4 +85,4 @@ Contributions, issues, and feature requests are welcome! Feel free to check the 
 For further inquiries or support, contact:
 
 **Dharaneshwar**  
-Email: your-email@example.com
+Email: your-dharaneshwarb@gmail.com
