@@ -85,4 +85,4 @@ Ensure you keep your API key secure by not exposing it in public repositories. U
 For further inquiries or support, contact:
 
 **Dharaneshwar**  
-Email: your-dharaneshwarb@gmail.com
+Email: dharaneshwarb@gmail.com
